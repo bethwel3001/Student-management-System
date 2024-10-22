@@ -1,5 +1,5 @@
 
-//libraries importation
+//libraries
 //import ArrayList for dynamic lists and Scanner for user input.
 
 import java.util.ArrayList;
